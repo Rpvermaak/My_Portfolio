@@ -53,6 +53,6 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
 
 ## Contact
 
-* Phone: 010 5091 6296
+* Phone: 010 5901 6296
 * Email: rpvermaak123@gmail.com
 * LinkedIn: [www.linkedin.com/in/ruben-vermaak-29b225a1](www.linkedin.com/in/ruben-vermaak-29b225a1)
