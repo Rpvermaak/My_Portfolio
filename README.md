@@ -45,8 +45,9 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
 ## Projects
 
 * BellaBeat Fitness Tracker Case Study - Showcasing R programing
+![Alt text](assets/img/bellabeat.png)
 * Cyclectic Bike Sharing Case study - Showcasing ability to use SQL and Tableau
-
+  ![Alt text](assets/img/cyclistic.png)
 ## Additional
 
 * **Volunteering:** SASOL Tree Planting initiative, Park clean up initiative, Working on Fire - volunteer firefighter
