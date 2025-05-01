@@ -44,9 +44,9 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
 
 ## Projects
 
-* BellaBeat Fitness Tracker Case Study - Showcasing R programing
+* BellaBeat Fitness Tracker Case Study - Showcasing R programing [View](https://github.com/Rpvermaak/BellaBeat-Case_Study/blob/main/Bellabeat_Case_Study.ipynb)
 ![Alt text](assets/img/bellabeat.png)
-* Cyclectic Bike Sharing Case study - Showcasing ability to use SQL and Tableau
+* Cyclectic Bike Sharing Case study - Showcasing ability to use SQL and Tableau [View](https://github.com/Rpvermaak/bike-share-project/blob/main/Bike_Share_Project.ipynb)
 ![Alt text](assets/img/cyclistic.png)
 ## Additional
 
