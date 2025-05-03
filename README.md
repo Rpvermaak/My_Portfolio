@@ -49,7 +49,7 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
 * Cyclectic Bike Sharing Case study - Showcasing ability to use SQL and Tableau [View](https://github.com/Rpvermaak/bike-share-project/blob/main/Bike_Share_Project.ipynb)
 ![Alt text](assets/img/cyclistic.png)
 * Cyclistic Bike Share Dashboard 2024 - Tableau [view](https://public.tableau.com/views/daily_rides_summary/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Alt text](assets/img/Members VS. Casual Riders.png)
+![Alt text](assets/img/bikeshare2024.png)
 ## Additional
 
 * **Volunteering:** SASOL Tree Planting initiative, Park clean up initiative, Working on Fire - volunteer firefighter
