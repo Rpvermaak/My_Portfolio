@@ -1,4 +1,4 @@
-# Ruben Vermaak - Researcher & Data Analyst
+# Ruben Vermaak - Data Analyst
 
 Welcome to my portfolio website! I'm a dedicated Researcher and Data Analyst with a strong background in data manipulation, statistical analysis, and visualization. I am passionate about leveraging data to drive insightful and effective decision-making.
 
