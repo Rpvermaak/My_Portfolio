@@ -37,7 +37,7 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
 
 * **Coursera** - Google Advanced Data Analytics Professional certificate (March 2025 - In progress)
     * Equipping me with advanced skills in data manipulation, statistical analysis, and machine learning using Python, along with data visualization and effective communication techniques.
-* **Coursera** - Google Data Analytics Professional certificate (June 2024 - December 2024)[view](https://www.credly.com/badges/91ce9d3a-1ae9-4314-bc46-d3ec036a5752/public_url)
+* **Coursera** - Google Data Analytics Professional certificate (June 2024 - December 2024) [Credly](https://www.credly.com/badges/91ce9d3a-1ae9-4314-bc46-d3ec036a5752/public_url)
     * Provided practical training in the full data life cycle, from data cleaning to visualisation and reporting with excel and tableau, with an emphasis on making data-driven decisions.
 * **TTA** - Teaching English In a Foreign Language (160 hours) (March 2023 - June 2023)
     * Provided necessary technical skills to be a competent and effective English language teacher.
