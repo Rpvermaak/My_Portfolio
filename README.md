@@ -50,6 +50,8 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
 ![Alt text](assets/img/cyclistic.png)
 * Cyclistic Bike Share Dashboard 2024 - Tableau [view](https://public.tableau.com/views/daily_rides_summary/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![Alt text](assets/img/bikeshare2024.png)
+* Kaggle Simple Linear Regression - Advertising Data [View](https://www.kaggle.com/code/rubenvermaak/simple-linear-regression-advertising-data)
+![Alt text]()
 ## Additional
 
 * **Volunteering:** SASOL Tree Planting initiative, Park clean up initiative, Working on Fire - volunteer firefighter
