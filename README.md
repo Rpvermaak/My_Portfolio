@@ -52,6 +52,8 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
 ![Alt text](assets/img/bikeshare2024.png)
 * Kaggle Simple Linear Regression - Advertising Data [View](https://www.kaggle.com/code/rubenvermaak/simple-linear-regression-advertising-data)
 ![Alt text](assets/img/1_tI-TWV--K05xbXUgA4Qm1w.png)
+* Follow my progress of the Google Advanced Data Analytics course [View ](https://github.com/Rpvermaak/Google-Advanced-Data-Analytics-Projects)
+![Alt text]()
 ## Additional
 
 * **Volunteering:** SASOL Tree Planting initiative, Park clean up initiative, Working on Fire - volunteer firefighter
