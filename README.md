@@ -35,7 +35,7 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
 
 ## Certifications
 
-* **Coursera** - Google Advanced Data Analytics Professional certificate (March 2025 - In progress)
+* **Coursera** - Google Advanced Data Analytics Professional certificate (March 2025 - September 2025)[Credly](https://www.credly.com/badges/81be09d4-2897-4dcb-af6c-c63fd934d858/public_url)
     * Equipping me with advanced skills in data manipulation, statistical analysis, and machine learning using Python, along with data visualization and effective communication techniques.
 * **Coursera** - Google Data Analytics Professional certificate (June 2024 - December 2024) [Credly](https://www.credly.com/badges/91ce9d3a-1ae9-4314-bc46-d3ec036a5752/public_url)
     * Provided practical training in the full data life cycle, from data cleaning to visualisation and reporting with excel and tableau, with an emphasis on making data-driven decisions.
@@ -43,7 +43,13 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
     * Provided necessary technical skills to be a competent and effective English language teacher.
 
 ## Projects
-
+* Salifort Motors HR project [View](https://github.com/Rpvermaak/Google-Advanced-Data-Analytics-Projects/blob/main/Salifort%20Motor%20Capstone%20Project/Activity_%20Course%207%20Salifort%20Motors%20project%20lab.ipynb)
+* Tiktok - Claim or Opinion Poject [View](https://github.com/Rpvermaak/Google-Advanced-Data-Analytics-Projects/tree/main/TikTok-Project)
+![Alt text](assets/img/tiktok1_2779579a-95e7-4783-8e79-f46852a5dc24.png)
+* Wise - Customer Churn Project [View](https://github.com/Rpvermaak/Google-Advanced-Data-Analytics-Projects/tree/main/Waze-Project)
+![Alt text](assets/img/waze-logo-black-and-white.png)
+* New York City Taxi and Limousine Commission (TLC) [View](https://github.com/Rpvermaak/Google-Advanced-Data-Analytics-Projects/tree/main/TLC)
+![Alt text](assets/img/nyc-tlc-logo.svg)
 * BellaBeat Fitness Tracker Case Study - Showcasing R programing [View](https://github.com/Rpvermaak/BellaBeat-Case_Study/blob/main/Bellabeat_Case_Study.ipynb)
 ![Alt text](assets/img/bellabeat.png)
 * Cyclectic Bike Sharing Case study - Showcasing ability to use SQL and Tableau [View](https://github.com/Rpvermaak/bike-share-project/blob/main/Bike_Share_Project.ipynb)
@@ -52,8 +58,7 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
 ![Alt text](assets/img/bikeshare2024.png)
 * Kaggle Simple Linear Regression - Advertising Data [View](https://www.kaggle.com/code/rubenvermaak/simple-linear-regression-advertising-data)
 ![Alt text](assets/img/1_tI-TWV--K05xbXUgA4Qm1w.png)
-* Follow my progress of the Google Advanced Data Analytics course [View](https://github.com/Rpvermaak/Google-Advanced-Data-Analytics-Projects)
-![Alt text](assets/img/image.png)
+
 ## Additional
 
 * **Volunteering:** SASOL Tree Planting initiative, Park clean up initiative, Working on Fire - volunteer firefighter
