@@ -35,7 +35,7 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
 
 ## Certifications
 
-* **Coursera** - Google Advanced Data Analytics Professional certificate (March 2025 - September 2025)[Credly](https://www.credly.com/badges/81be09d4-2897-4dcb-af6c-c63fd934d858/public_url)
+* **Coursera** - Google Advanced Data Analytics Professional certificate (March 2025 - September 2025) [Credly](https://www.credly.com/badges/81be09d4-2897-4dcb-af6c-c63fd934d858/public_url)
     * Equipping me with advanced skills in data manipulation, statistical analysis, and machine learning using Python, along with data visualization and effective communication techniques.
 * **Coursera** - Google Data Analytics Professional certificate (June 2024 - December 2024) [Credly](https://www.credly.com/badges/91ce9d3a-1ae9-4314-bc46-d3ec036a5752/public_url)
     * Provided practical training in the full data life cycle, from data cleaning to visualisation and reporting with excel and tableau, with an emphasis on making data-driven decisions.
